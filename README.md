@@ -8,3 +8,5 @@ docker-compose build
 ````
 docker-compose up
 ````
+`http://localhost:8085` Login database
+`http://localhost/index.php` localhost
