@@ -2,5 +2,9 @@
 ````
 git clone https://github.com/ngoctran1401/login_docker.git
 ````
-`docker-compose build`
-`docker-compose up`
+````
+docker-compose build
+````
+````
+docker-compose up
+````
