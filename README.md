@@ -10,3 +10,4 @@ docker-compose up
 ````
 `http://localhost:8085` Login database
 `http://localhost/index.php` localhost
+`git rm --cached name_of_file` rm file env
